@@ -13,7 +13,7 @@ export default function Header() {
             </Link>
             <Link href="/">
                 <a className="bg-yellow-400 hover:bg-white text-purple-800 font-bold py-2 px-4 rounded">
-                    HOME
+                    MERHABA
                 </a>
             </Link>
         </header>
